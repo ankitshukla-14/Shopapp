@@ -26,7 +26,7 @@ const Cart = () => {
               <div className="text-green-800 font-bold text-[50px] ">Summary</div>
               <div>Total Items: {cart.length}</div>
               <div>
-                <p>Total amount: ${totalAmount}</p>
+                <p>Total amount:  ${totalAmount}</p>
                 <button>Checkout Now</button>
               </div>
             </div>
